@@ -97,3 +97,11 @@ This library was written in 2013. The information described here can be (veratne
         </tr>
     </tbody>
 </table>
+
+
+# Appreciation
+
+This library sponsored and requested by [Hosting company 2by2host](http://www.2by2host.com/) and [Aimbox](http://aimbox.com/).
+
+# Licence
+The MIT License (MIT).
