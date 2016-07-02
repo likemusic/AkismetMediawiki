@@ -1,5 +1,9 @@
 [English version (translated)](README.en.md)
 
+# Важно!!!
+
+Библиотека была написана в 2013 году. Информация описанная здесь может быть (верятнее всего) устарела. Код выложен в качестве примера моего кода для поиска работы. Скорее всего, что сейчас на [Packagist](https://packagist.org/search/?q=akismet) и [оффициальном репозитории плагинов](https://www.mediawiki.org/wiki/Category:Extensions_by_category) вы сможете найти более новые и удобные и качественные расширения для работы с Akismet.
+
 # AkismetMediawiki
 Расширение [Mediawiki](https://ru.wikipedia.org/wiki/MediaWiki) для проверки правок на наличие спама.
 
