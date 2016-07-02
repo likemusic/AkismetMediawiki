@@ -29,7 +29,7 @@
             <td>Ключ Api полученный на akismet.com. Должен быть обязательно задан.</td>
         </tr>
         <tr>
-            <td colspan="4">Включение/выключение функций</td>
+            <th colspan="4">Включение/выключение функций</th>
         </tr>
         <tr>
             <td>$wgAkismetAddDeleteReason</td>

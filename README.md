@@ -30,7 +30,7 @@ This library was written in 2013. The information described here can be (veratne
             <td>The Api key, received from akismet.com. The key should be specified.</td>
         </tr>
         <tr>
-            <td colspan="4">Enable/disable functionality</td>
+            <th colspan="4">Enable/disable functionality</th>
         </tr>
         <tr>
             <td>$wgAkismetAddDeleteReason</td>
