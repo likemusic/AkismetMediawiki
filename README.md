@@ -3,7 +3,7 @@
 # AkismetMediawiki
 [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) extention to check changes for spam.
 
-![AkismetMediawiki](screenshots/Delete.ru.png)
+![AkismetMediawiki](screenshots/Delete.png)
 
 
 ## Config parameters
