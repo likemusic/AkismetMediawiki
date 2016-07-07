@@ -103,5 +103,8 @@ This library was written in 2013. The information described here can be (veratne
 
 This library sponsored and requested by [Hosting company 2by2host](http://www.2by2host.com/) and [Aimbox](http://aimbox.com/).
 
+# TODO
+- Find better solution and add link to here or test on last wersion Mediawiki and add this to official extentions repository.
+
 # Licence
 The MIT License (MIT).
